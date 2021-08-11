@@ -1,4 +1,4 @@
-package C1A;
+package Patron_Facade_a;
 
 public class PagoService {
     public Boolean procesarPago(Tarjeta tarjeta, double montoACobrar){
