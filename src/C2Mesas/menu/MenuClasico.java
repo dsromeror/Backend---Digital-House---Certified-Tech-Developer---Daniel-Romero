@@ -1,2 +1,5 @@
-package C2Mesas.menu;public class MenuClasico {
+package C2Mesas.menu;
+
+public class MenuClasico extends Menu{
+
 }
