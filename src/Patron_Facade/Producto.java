@@ -1,4 +1,4 @@
-package Patron_Facade_a;
+package Patron_Facade;
 
 public class Producto {
     private String productoId;

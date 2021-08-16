@@ -1,4 +1,4 @@
-package Patron_Facade_a;
+package Patron_Facade;
 
 public class Tarjeta {
     private String NumerosFrente;
