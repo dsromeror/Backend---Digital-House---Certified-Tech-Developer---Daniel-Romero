@@ -12,7 +12,7 @@ public class TestLog {
         } catch (Exception e) {
             logger.error("Error por dividir por cero ", e);
         }
-        logger.warn("Advertencia el metodo MAIN esta por finalizar");
+        logger.warn("Advertencia el método MAIN esta por finalizar");
         logger.debug("Esto va a mostrarse solo si el infoLogger esta en DEBUG");
         logger.info("Finalizamos el thread MAIN");
     }

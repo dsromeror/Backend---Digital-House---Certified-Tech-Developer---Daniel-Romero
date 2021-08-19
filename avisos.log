@@ -1,0 +1,14 @@
+[2021-08-17 22:30:45] [ INFO ] [TestLog:8] Empezamos nuestro metodo MAIN
+[2021-08-17 22:30:45] [ ERROR] [TestLog:13] Error por dividir por cero 
+java.lang.ArithmeticException: / by zero
+	at C10A.TestLog.main(TestLog.java:11)
+[2021-08-17 22:30:45] [ WARN ] [TestLog:15] Advertencia el metodo MAIN esta por finalizar
+[2021-08-17 22:30:45] [ DEBUG] [TestLog:16] Esto va a mostrarse solo si el infoLogger esta en DEBUG
+[2021-08-17 22:30:45] [ INFO ] [TestLog:17] Finalizamos el thread MAIN
+[2021-08-18 19:08:47] [ DEBUG] [CalculadorDePromedio:14] Iniciando metodo calcular promedio()[5, 20, 35]
+[2021-08-18 19:08:47] [ DEBUG] [CalculadorDePromedio:35] Terminó la ejecución del metodo calcular promedio()
+[2021-08-18 19:19:11] [ DEBUG] [CalculadorDePromedio:15] Iniciando metodo calcular promedio()[5, 20, 35]
+[2021-08-18 19:19:12] [ INFO ] [CalculadorDePromedio:37] La lista tiene un promedio de: 20.0
+[2021-08-18 19:19:12] [ INFO ] [CalculadorDePromedio:40] El número máximo de la lista es de : 35
+[2021-08-18 19:19:12] [ INFO ] [CalculadorDePromedio:42] El número mínimo de la lista es de : 5
+[2021-08-18 19:19:12] [ DEBUG] [CalculadorDePromedio:44] Terminó la ejecución del metodo calcular promedio()
